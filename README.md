@@ -14,5 +14,5 @@ I'm a systems & storage engineer in the making, currently @ IBM Storage, with bi
 Storage, journaling, DSA patterns, or where to get good black coffee ☕
 
 ### 📫 Connect with me:
-- LinkedIn: [Aachal Saxena](https://www.linkedin.com/in/aachal-saxena)
+- LinkedIn: [Aachal Saxena](https://www.linkedin.com/in/aachalsaxena)
 - Instagram: [@caffeinewithcamera](https://instagram.com/caffeinewithcamera)
